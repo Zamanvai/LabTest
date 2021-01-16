@@ -1,6 +1,6 @@
 # lab_test
 
-A new Flutter application.
+A new Flutter application. The code isn't fully finished
 
 ## Getting Started
 
